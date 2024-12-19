@@ -1,0 +1,5 @@
+# ignorar o arquivo scss
+*.scss
+
+# ignorar o arquivo sass
+*.sass

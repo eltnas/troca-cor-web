@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Agu+Display&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  background: #f3efef;
+  width: 100%;
+  height: 2rem;
+}
+header nav {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+header nav ul {
+  width: 400px;
+  height: 100%;
+  margin: auto auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav ul li {
+  width: 3rem;
+  height: 100%;
+  list-style: none;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header nav ul #social-facebook {
+  color: rgba(19, 18, 18, 0.4);
+}
+header nav ul #social-facebook:hover {
+  background: linear-gradient(135deg, #1877f2, #4b8bf5);
+  color: #FFF;
+  border-color: #1877f2;
+}
+header nav ul #social-linkedin {
+  color: rgba(19, 18, 18, 0.4);
+  /* Cor inicial do texto */
+}
+header nav ul #social-linkedin:hover {
+  background: #0077B5;
+  /* Cor oficial do LinkedIn no hover */
+  color: #FFF;
+  /* Cor do texto no hover */
+  border-color: #0077B5;
+  /* Cor da borda no hover */
+}
+header nav ul #social-insta {
+  color: rgba(19, 18, 18, 0.4);
+}
+header nav ul #social-insta:hover {
+  background: linear-gradient(135deg, #F09433, #E4405F, #C13584);
+  color: #FFF;
+  border-color: #C13584;
+}
+header nav ul #social-user {
+  color: rgba(19, 18, 18, 0.4);
+}
+header nav ul #social-user:hover {
+  background: linear-gradient(135deg, #4CAF50, #2E7D32);
+  color: #FFF;
+  border-color: #00A6ED;
+}
+
+main {
+  width: 100%;
+  height: calc(100% - 4rem);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main #cores {
+  width: 50%;
+  max-width: 500px;
+  min-width: 375px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 20px;
+  background: rgba(243, 239, 239, 0.5);
+}
+main #cores h1 {
+  font-family: "Agu Display", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2.5em;
+  text-decoration: none;
+}
+main #cores button {
+  width: 250px;
+  height: 70px;
+  border-radius: 15px;
+  font-family: "Agu Display", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 1.8em;
+  background: linear-gradient(135deg, #A71C28, #28A745, #0056D2);
+  color: #FFFFFF;
+  transition: background 2s ease, color 2s ease;
+}
+main #cores button:hover {
+  font-family: "roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 1.8em;
+  background: linear-gradient(135deg, #0056D2, #28A745, #A71C28);
+  color: #FFFFFF;
+}
+
+footer {
+  width: 100%;
+  height: 2rem;
+  bottom: 0;
+  background: #f3efef;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer p {
+  font-family: "Roboto", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1em;
+  color: rgba(19, 18, 18, 0.5);
+}
+footer p a {
+  color: rgba(19, 18, 18, 0.5);
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */

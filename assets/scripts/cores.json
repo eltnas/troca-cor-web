@@ -1,0 +1,214 @@
+{
+  "cores": [
+    {
+      "palette": 1,
+      "top": "#F5F5F5",
+      "body": "#FFFFFF",
+      "fontColor": "#333333",
+      "nome": "Cinza Claro"
+    },
+    {
+      "palette": 2,
+      "top": "#EFEFEF",
+      "body": "#FAFAFA",
+      "fontColor": "#444444",
+      "nome": "Cinza Neutro"
+    },
+    {
+      "palette": 3,
+      "top": "#FFF8E1",
+      "body": "#FFFFFF",
+      "fontColor": "#4A4A4A",
+      "nome": "Amarelo Claro"
+    },
+    {
+      "palette": 4,
+      "top": "#E3F2FD",
+      "body": "#FDFEFE",
+      "fontColor": "#2C3E50",
+      "nome": "Azul Claro"
+    },
+    {
+      "palette": 5,
+      "top": "#FFEBEE",
+      "body": "#FFFFFF",
+      "fontColor": "#212121",
+      "nome": "Rosa Claro"
+    },
+    {
+      "palette": 6,
+      "top": "#E8F5E9",
+      "body": "#FFFFFF",
+      "fontColor": "#3C3C3C",
+      "nome": "Verde Claro"
+    },
+    {
+      "palette": 7,
+      "top": "#FCE4EC",
+      "body": "#FFFFFF",
+      "fontColor": "#424242",
+      "nome": "Rosa Suave"
+    },
+    {
+      "palette": 8,
+      "top": "#E0F7FA",
+      "body": "#FFFFFF",
+      "fontColor": "#37474F",
+      "nome": "Azul Bebê"
+    },
+    {
+      "palette": 9,
+      "top": "#FFF3E0",
+      "body": "#FFFFFF",
+      "fontColor": "#5D4037",
+      "nome": "Laranja Claro"
+    },
+    {
+      "palette": 10,
+      "top": "#ECEFF1",
+      "body": "#FFFFFF",
+      "fontColor": "#263238",
+      "nome": "Cinza Azul"
+    },
+    {
+      "palette": 11,
+      "top": "#F4F4F4",
+      "body": "#FFFFFF",
+      "fontColor": "#212121",
+      "nome": "Cinza Claro Neutro"
+    },
+    {
+      "palette": 12,
+      "top": "#FFFDE7",
+      "body": "#FFFFFF",
+      "fontColor": "#616161",
+      "nome": "Amarelo Claro Suave"
+    },
+    {
+      "palette": 13,
+      "top": "#EDE7F6",
+      "body": "#FFFFFF",
+      "fontColor": "#4527A0",
+      "nome": "Lavanda Claro"
+    },
+    {
+      "palette": 14,
+      "top": "#FFF9C4",
+      "body": "#FFFFFF",
+      "fontColor": "#3E2723",
+      "nome": "Amarelo Suave"
+    },
+    {
+      "palette": 15,
+      "top": "#D7CCC8",
+      "body": "#FFFFFF",
+      "fontColor": "#5D4037",
+      "nome": "Bege Claro"
+    },
+    {
+      "palette": 16,
+      "top": "#FF5733",
+      "body": "#C70039",
+      "fontColor": "#FFFFFF",
+      "nome": "Vermelho Intenso"
+    },
+    {
+      "palette": 17,
+      "top": "#900C3F",
+      "body": "#581845",
+      "fontColor": "#FFFFFF",
+      "nome": "Vermelho Escuro"
+    },
+    {
+      "palette": 18,
+      "top": "#FFC300",
+      "body": "#FF5733",
+      "fontColor": "#1C2833",
+      "nome": "Amarelo e Laranja"
+    },
+    {
+      "palette": 19,
+      "top": "#00BFFF",
+      "body": "#1E90FF",
+      "fontColor": "#FFFFFF",
+      "nome": "Azul Claro"
+    },
+    {
+      "palette": 20,
+      "top": "#FF6347",
+      "body": "#FF4500",
+      "fontColor": "#FFFFFF",
+      "nome": "Tomate"
+    },
+    {
+      "palette": 21,
+      "top": "#32CD32",
+      "body": "#98FB98",
+      "fontColor": "#FFFFFF",
+      "nome": "Verde Limão"
+    },
+    {
+      "palette": 22,
+      "top": "#8A2BE2",
+      "body": "#7B68EE",
+      "fontColor": "#FFFFFF",
+      "nome": "Violeta"
+    },
+    {
+      "palette": 23,
+      "top": "#DC143C",
+      "body": "#FF1493",
+      "fontColor": "#FFFFF0",
+      "nome": "Carmesim e Rosa"
+    },
+    {
+      "palette": 24,
+      "top": "#FFD700",
+      "body": "#FF8C00",
+      "fontColor": "#FFFFFF",
+      "nome": "Dourado"
+    },
+    {
+      "palette": 25,
+      "top": "#8B0000",
+      "body": "#A52A2A",
+      "fontColor": "#FFFFFF",
+      "nome": "Vermelho Escuro e Marrom"
+    },
+    {
+      "palette": 26,
+      "top": "#ADFF2F",
+      "body": "#7FFF00",
+      "fontColor": "#FFFFFF",
+      "nome": "Verde Amarelado"
+    },
+    {
+      "palette": 27,
+      "top": "#8B4513",
+      "body": "#D2691E",
+      "fontColor": "#FFFFFF",
+      "nome": "Marrom e Madeira"
+    },
+    {
+      "palette": 28,
+      "top": "#483D8B",
+      "body": "#6A5ACD",
+      "fontColor": "#DCDCDC",
+      "nome": "Azul Escuro"
+    },
+    {
+      "palette": 29,
+      "top": "#FF69B4",
+      "body": "#FF1493",
+      "fontColor": "#FFF0F5",
+      "nome": "Rosa Forte"
+    },
+    {
+      "palette": 30,
+      "top": "#20B2AA",
+      "body": "#48D1CC",
+      "fontColor": "#FFFFFF",
+      "nome": "Turquesa Claro"
+    }
+  ]
+}
